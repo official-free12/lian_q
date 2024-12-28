@@ -1,0 +1,6 @@
+# 链上去中心化钱包 uniswap 支持多以太 波场钱包app
+
+支持以太ETH，TRX波场两个公链<br>支持私钥，助记词导入，真正的去中心化钱包<br>含swap兑换，DAPP浏览器。<br>本钱包为正规去中心化钱包，<br>后台只有编辑图标，banner轮播图，没有其它中心化功能。<br>本钱包为正规钱包，不记录任何用户信息，无授权。<br>开发语言为flutter<br>-------------------------------------------------<br>钱包版本二：某p的ui,支持五条公链（大饼，以太，波场，ht,bsc），<br>支持创建导入，观察钱包，+冷钱包。<br>dapp浏览器，英中日韩多语言<br>如有需求可咨询我。<br>---------------------------------------------------------------------------------<br>青橙科软提供业务范围：定制开发，二次开发，ai软件开发 gpt stable diffusion ,openai ai视频音频.<br>区块链 公链dapp 等。<br>（不接违规软件。）<br>声明：本店出售源码系统均不包含二次开发/删改增功能/BUG修改等服务，不包含对接钱包节点服务（说明已包括的除外）。<br>有演示地址的源码与演示一致，若无演示的源码与客户运营中的参考演示不保证完全一样、有变化的可能性。<br>免责声明：<br>1：本店所开发出售软件源代码仅限于开发学习交流，不提供任何商业运营维护服务。<br>2：若购买方私自二次开发修改，转让，用于商业运营或非法用途等行为，与我方无关。<br>3：购买前请仔细阅读本声明，购买则表示您已阅读并同意本声明的以上所有条款之约定。<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/NO071" style="color: red;">https://mega-file.org/NO071</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
